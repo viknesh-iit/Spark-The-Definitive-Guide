@@ -1,0 +1,38 @@
+https://www.safaribooksonline.com
+
+Table of Contents
+Chapter 1 What is Spark?
+Chapter 2 A Gentle Introduction to Spark
+Chapter 3 Advanced Spark
+Chapter 4 Structured APIs Overview
+Chapter 5 Basic Structured Operations
+Chapter 6 Working with Different Types of Data
+Chapter 7 Aggregations
+Chapter 8 Joins
+Chapter 9 Data Sources
+Chapter 10 Spark SQL
+Chapter 11 Datasets
+Chapter 12 Low Level APIs Overview
+Chapter 13 Basic RDD Operations
+Chapter 14 Advanced RDD Operations
+Chapter 15 Distributed Variables
+Chapter 16 How Spark Runs on a Cluster
+Chapter 17 Writing Spark Applications
+Chapter 18 Deploying Spark
+Chapter 19 Monitoring and Debugging
+Chapter 20 Configuring, Optimizing, and Tuning
+Chapter 21 Streaming Concepts
+Chapter 22 What Makes Streaming in Spark Different
+Chapter 23 Structured Streaming
+Chapter 24 Operationalizing Structured Streaming
+Chapter 25 Advanced Analytics and Machine Learning
+Chapter 26 Preprocessing Data
+Chapter 27 Classification
+Chapter 28 Regression
+Chapter 29 Recommendation
+Chapter 30 Clustering
+Chapter 31 Graph Analysis
+Chapter 32 Deep Learning
+Chapter 33 Ecosystem and Communit
+Chapter 34 Spark Packages
+Chapter 35 R on Spark

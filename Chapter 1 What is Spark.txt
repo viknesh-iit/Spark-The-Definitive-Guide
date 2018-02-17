@@ -1,0 +1,25 @@
+Chapter 1 What is Spark
+**************************************************************
+What Is Apache Spark?
+	Apache Spark is a unified computing engine and a set of libraries for parallel data processing on computer clusters.
+What all components and libraries Spark offers/Spark Toolkit
+	Structured Streaming
+	Advanced Analytics
+	Libraries & EcoSystem
+	Structured APIs - Datasets/DataFrames/SQL
+	Low Level APIs - RDDs/Distributed Variables
+Why Spark is a Unified Platform?
+	Spark supports a wide range of data analytics tasks, ranging from simple data loading and SQL queries to machine learning and streaming computation, over the same computing engine and with a consistent set of APIs.
+What are the persistent Storage systems spark can be used with?
+	Azure Storage
+	Amazon S3
+	Apache Hadoop(Distributed File system)
+	Apache Cassandra(key-value stores)
+	Apache Kafka(message buses)
+Spark packages site?
+	https://spark-packages.org/
+What are the libraries?
+	SQL and structured data (Spark SQL)
+	machine learning (MLlib)
+	Stream processing (Spark Streaming and the newer Structured Streaming)
+	graph analytics (GraphX)
