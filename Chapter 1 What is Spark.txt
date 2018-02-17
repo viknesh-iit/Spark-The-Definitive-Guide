@@ -23,3 +23,13 @@ What are the libraries?
 	machine learning (MLlib)
 	Stream processing (Spark Streaming and the newer Structured Streaming)
 	graph analytics (GraphX)
+How does distributed processing evolved?
+	Processing speed could not change;storage cost keeps reducing
+Drawbacks of MapReduce?
+	Each pass had to be written as a separate MapReduce job
+	This had to be launched separately on the cluster and load the data from scratch
+Spark Realease dates
+	Spark 1.0 in 2014
+	Spark 2.0 in 2016
+Where is Structured Streaming used ??	
+	Uber and Netflix
